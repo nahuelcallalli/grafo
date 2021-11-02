@@ -1,3 +1,5 @@
+from adyacente import Adyacente
+
 class Nodo:
     
     def __init__(self, nombre):
